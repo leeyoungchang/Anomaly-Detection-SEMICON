@@ -7,9 +7,9 @@
 ## Experiment
 
 
-|Date|Architecture|Test|acc(%)|Time(sec)|    
+|Date|Architecture|Test loss|Test acc(%)|Comment|    
 |------|------|------|------|------|
-|------|------|------|------|------|
+|2021.09.09|MLP|1.61|82.9|MLP(64-16-1)+adam|
 |------|------|------|------|------|
 
 ## Other Links
